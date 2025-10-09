@@ -1,2 +1,2 @@
 # docker-templates
-unRAID Docker Templates.
+Unraid docker templates
